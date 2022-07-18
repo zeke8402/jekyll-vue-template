@@ -5,8 +5,8 @@
         <font-awesome-icon icon="fa-solid fa-user-secret" />
       </div>
       <div>
-        <div class="text-xl font-medium text-black">ChitChat</div>
-        <p class="text-slate-500">You have a new message!</p>
+        <div class="text-xl font-medium text-black">./zeke.sh</div>
+        <p class="text-slate-500">Resume  |  Music  |  Game Dev  |  Blog</p>
       </div>
     </div>
   </div>
