@@ -1,5 +1,7 @@
 <template>
-  <h1>Jekyll-Vue Template</h1>
+  <div>
+    <h1>Jekyll-Vue Template</h1>
+  </div>
 </template>
 
 <script>
