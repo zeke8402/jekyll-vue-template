@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<hello-world></hello-world>
+<splash-page></splash-page>
